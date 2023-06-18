@@ -1,0 +1,7 @@
+.pie1{height: 300px; width: 30%; position:absolute; left:0%;  }
+.pie2{height: 300px; width: 30%; position:absolute; left:35%; }
+.pie3{height: 300px; width: 30%; position:absolute; left:69%;}
+.pie1,.pie2,.pie3{}
+canvas{  }
+.main{width:1200px; position:relative;  }
+b{ color:#609; font-size:20px; border:1px solid #333; border-radius: 3px; padding:px 20px; }
